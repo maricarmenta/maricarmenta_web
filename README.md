@@ -17,3 +17,7 @@
   <h3 align="center"> • Información • </h3>
   <p align="center"> - Esta página funcionará como una <b>primera versión</b> de mi portfolio profesional.</p>
   <p align="center"> En próximas actualizaciones, se implementará (o mejorará) con <b>JavaScript</b> </p>
+
+  ---
+
+  <h3 align="center"> Página de referencia: </h3>
