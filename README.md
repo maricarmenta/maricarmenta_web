@@ -20,5 +20,5 @@
 
   ---
 
-  <h2 align="center"> Página de referencia: </h2>
-  <img align="center" src="https://themewagon.com/wp-content/uploads/2014/06/Free-Personal-Website-Design-HTML5-Template-1.jpg"/>
+  <h2> Página de referencia: </h2>
+  <img src="https://themewagon.com/wp-content/uploads/2014/06/Free-Personal-Website-Design-HTML5-Template-1.jpg"/>
