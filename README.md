@@ -23,5 +23,5 @@
   <h2> Página de referencia: </h2>
   <img src="https://themewagon.com/wp-content/uploads/2014/06/Free-Personal-Website-Design-HTML5-Template-1.jpg"/>
 
-  ![Estadísticas del Repositorio](https://github-readme-stats.vercel.app/api/top-langs/?username=maricarmenta&layout=compact)
+
 
