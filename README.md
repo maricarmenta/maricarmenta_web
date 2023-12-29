@@ -20,4 +20,4 @@
 
   ---
 
-  <h3 align="center"> Página de referencia: </h3>
+  <h2 align="center"> Página de referencia: </h2>
